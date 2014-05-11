@@ -1,9 +1,7 @@
 tarjan-SCC
 ==========
 
-scala implementation of the Tarjan SCC algorithm
-
-based on this one https://github.com/bwesterb/py-tarjan (only the SCC part).
+scala implementation of the Tarjan SCC algorithm based on this one https://github.com/bwesterb/py-tarjan (only the SCC part).
 
 If I have time, i'll try to make more "scala".
 
